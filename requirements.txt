@@ -1,0 +1,5 @@
+pip install tweepy
+pip install google-cloud
+pip install google-cloud-storage
+pip install --upgrade google-cloud-storage
+pip install google-cloud-translate
