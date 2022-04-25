@@ -1,1 +1,1 @@
-web: python3 twit_app.py
+worker:python twit_app.py
