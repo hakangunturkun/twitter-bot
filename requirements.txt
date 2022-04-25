@@ -1,5 +1,5 @@
-pip install tweepy
-pip install google-cloud
-pip install google-cloud-storage
-pip install --upgrade google-cloud-storage
-pip install google-cloud-translate
+tweepy==4.6.0
+google-cloud==0.34.0
+google-cloud-core==2.2.2
+google-cloud-storage==2.1.0
+google-cloud-translate==3.7.1
